@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="title">Выбор чата</string>
+    <string name="back">Подтвердить</string>
+</resources>
